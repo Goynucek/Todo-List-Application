@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.exe.config
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.exe
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.pdb
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note_Taking_Application.Form1.resources
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note_Taking_Application.Properties.Resources.resources
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.exe
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.pdb
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.exe.manifest
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\bin\Debug\Note-Taking Application.application
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.exe.manifest
+C:\Users\hasan\source\repos\Note-Taking Application\Note-Taking Application\obj\Debug\Note-Taking Application.application
